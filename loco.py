@@ -1,4 +1,5 @@
 #unpacking
-fruits = ("apple","banana")
-a,b = fruits
+fruits = ("apple","banana","canberry")
+a,b,c = fruits
 print(b)
+print(c)
